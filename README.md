@@ -13,7 +13,7 @@ Being able to quickly identify the presence of a specified email address across 
 
 ## Set-Up Instructions
 
-+ Download the latest release of the `aas-find-in-workflow-<version>.jar` from the [Releases](https://git.corp.adobe.com/christopherh/aas-find-email-in-workflow/releases) page
++ Download the latest release of the `aas-find-in-workflow-<version>.jar` from the [Releases](https://github.com/esign-org-uk/aas-find-in-workflow/releases) page
 + [Download Java 1.8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html), if you don't already have it installed on your machine
 + [IP Addresses to add to your allow list](https://helpx.adobe.com/sign/system-requirements.html#IPs), if needed
 
